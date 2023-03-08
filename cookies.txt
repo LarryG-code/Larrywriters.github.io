@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+qssndob.cc	TRUE	/	FALSE	1999999999	PHPSESSID	6c3d79e0227dcc5a4288dcdd3404f042
+

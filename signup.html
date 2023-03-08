@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from qssndob.cc/signup.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Mar 2023 06:00:03 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+</head>
+<body>
+ <main class="wrapper--center"> 
+   <form id="form" method="post"  class="login">
+       <h1 class="login__title">Signup</h1>
+     
+       <label class="login__label">Email</label>
+       <input class="login__field" name="user_name" type="email"/>
+       
+       <label class="login__label">Password</label>
+       <input class="login__field" name="password" type="password"/>
+
+       <label class="login__label">Repeat</label>
+       <input class="login__field" name="re-password" type="password"/>
+       <p>Already have an account <a href="login.html">Login</a></p>
+     <button class="btn--dark"> Signup</button>
+   </form>
+</main>
+
+
+<style>
+   body {
+  font-family: 'Lato';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #222;
+  color: white;
+}
+
+main {
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: var(--green);
+}
+
+:root {
+  --green: #1dc906;
+}
+
+/* Blocks */
+.login {
+  width: 100%;
+  max-width: 400px;
+}
+
+.login__title {
+  font-weight: 400;
+  font-size: 2.2rem;
+  letter-spacing: 0.0rem;
+}
+
+.login__label {
+  font-size: .95rem;
+  color: #a1a1a1;
+  display: block;
+  margin: 1rem 0 .5rem;
+}
+
+.login__field {
+  width: 100%;
+  max-width: 400px;
+  font-size: 1rem;
+  font-family: 'Roboto Slab';
+  letter-spacing: 0.02rem;
+  color: #c7c7c7;
+  background: #1a1a1a;
+  border: 1px solid transparent;
+  padding: .8rem 1rem;
+  outline: none;
+}
+
+.login__field:focus, .login__field:hover {
+  border-bottom: 1px solid var(--green);
+}
+
+.btn, .btn--dark {
+  outline: none;
+  text-transform: uppercase;
+  padding: .8rem 1.2rem;
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: 0.03rem;
+  border-radius: 6px;
+  transition: .25s;
+}
+
+.btn--dark {
+  color: var(--green);
+  border: 1px solid var(--green);
+  background: rgba(0,0,0,0.3);
+}
+
+.btn--dark:hover {
+  cursor: pointer;
+  background: var(--green);
+  color: #333;
+}
+
+/* Wrappers */
+.wrapper--center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+</style>
+	  <script src="vendor.js"></script>
+	</body>
+
+<!-- Mirrored from qssndob.cc/signup.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Mar 2023 06:00:03 GMT -->
+</html>

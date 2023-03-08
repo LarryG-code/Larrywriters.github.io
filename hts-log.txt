@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Mar 2023 08:59:46 at https://qssndob.cc/index.php https://qssndob.cc/chase.php https://qssndob.cc/chime.php https://qssndob.cc/hunt.php https://qssndob.cc/boa.php https://qssndob.cc/boa.php motherfucker%40gmail.com:Passwordless@https://qssndob.cc/methods.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://qssndob.cc/index.php https://qssndob.cc/chase.php https://qssndob.cc/chime.php https://qssndob.cc/hunt.php https://qssndob.cc/boa.php https://qssndob.cc/boa.php motherfucker%40gmail%2ecom:Passwordless@https://qssndob.cc/methods.php -%L https://qssndob.cc/index.php -O1 "C:\Users\KEVIN\Desktop\Mongolians\Mongolianslogsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:59:46	Error: 	Could not include URL list: https://qssndob.cc/index.php
+09:00:00	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+09:00:00	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/motherfucker%40gmail.com:Passwordless@https://qssndob.cc/methods.php (from primary/primary)
+09:00:04	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/motherfucker%40gmail.com:Passwordless@https://qssndob.cc/methods.php (from primary/primary)
+09:00:06	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/motherfucker%40gmail.com:Passwordless@https://qssndob.cc/methods.php (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 8 links scanned, 3 files written (190094 bytes overall), 2 files updated [6986 bytes received at 349 bytes/sec], 4419 bytes transferred using HTTP compression in 2 files, ratio 45%, 2.5 requests per connection
+(3 errors, 2 warnings, 0 messages)
